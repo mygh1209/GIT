@@ -6,4 +6,4 @@ this is a new txt file
 这是一个新的文本文件
 这是一个新的文本文件
 这是一个新的文本文件 master test
-这是一个新的文本文件
+这是一个新的文本文件 hotfix test
